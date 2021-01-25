@@ -20,6 +20,10 @@ to Synthwave music, and drinking coffee.
 > 
 > ― Isaac Asimov
 
+> If I only had an hour to chop down a tree, I would spend the first 45 minutes sharpening my axe.
+>
+> ― Abraham Lincoln.
+
 > If somebody tells you a rule, break it. That's the only thing to move things forward.
 >
 > ― Hans Zimmer
