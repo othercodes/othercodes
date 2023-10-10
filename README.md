@@ -23,12 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othercodes&theme=tokyonight&langs_count=3&line_height=27&hide_border=true">
 </p>
 
-<p align = "center">
-  <a href="https://github.com/othercodes/github-readme-activity-graph">
-    <img alt="Unay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=othercodes&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&hide_border=true" />
-  </a>
-</p> 
-
 ## Favorite Quotes
 
 > Part of the inhumanity of the computer is that, once it is competently 
