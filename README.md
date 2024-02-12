@@ -3,10 +3,9 @@
 # Hello mates!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-othercodes-000?style=flat-square&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/-othercode-1da1f2?style=flat-square&logo=Twitter&logoColor=white">
-  <img src="https://img.shields.io/badge/-DavidUnaySantisteban-blue?style=flat-square&logo=Linkedin&logoColor=white">
-  <img src="https://img.shields.io/badge/-slavepens-c14438?style=flat-square&logo=Gmail&logoColor=white">
+  <a href="https://github.com/othercodes" target="_blank"><img src="https://img.shields.io/badge/-othercodes-000?style=flat-square&logo=Github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/davidunaysantisteban/" target="_blank"><img src="https://img.shields.io/badge/-DavidUnaySantisteban-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:usantisteban@othercode.io" target="_blank"><img src="https://img.shields.io/badge/-usantisteban-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
 
