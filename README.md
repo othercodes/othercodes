@@ -9,18 +9,14 @@
   <img src="https://img.shields.io/badge/-slavepens-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </p>
 
-<p align="center">
-  I'm Unay. Senior Web Developer with more than 10 years of experience in the sector. I love 
-  playing with new technologies, developing web sites, and applications. I love reading Sci-fi, listening 
-  to Synthwave music, and drinking coffee.
-</p>
 
-<p align="center">
-  Currently, I'm dedicated to maintaining and developing [LaravelMade](https://laravelmade.com/) a platform that showcases projects, 
-  templates, and packages within the Laravel framework ecosystem. I'm also actively involved in crafting 
-  a set of essential classes and tools to streamline the adoption of Domain Driven Design called [Complex Heart](https://github.com/ComplexHeart).
-</p>
+I'm Unay. Senior Web Developer with more than 10 years of experience in the sector. I love 
+playing with new technologies, developing web sites, and applications. I love reading Sci-fi, listening 
+to Synthwave music, and drinking coffee.
 
+Currently, I'm dedicated to maintaining and developing [LaravelMade](https://laravelmade.com/) a platform that showcases projects, 
+templates, and packages within the Laravel framework ecosystem. I'm also actively involved in crafting 
+a set of essential classes and tools to streamline the adoption of Domain Driven Design called [Complex Heart](https://github.com/ComplexHeart).
 
 ## My Stats!
 
